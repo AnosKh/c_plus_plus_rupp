@@ -13,10 +13,3 @@ Title English Book: C++ how to Program
 Authors: Paul J. Deitel, Harvey M. Deitel
 
 Details: **[URL](https://books.google.com.kh/books?id=HhGB8fOiUy8C)
-
-
-
-
-
-
-
